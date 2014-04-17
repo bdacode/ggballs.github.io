@@ -20,15 +20,15 @@ p
 .MyGradient
 {
   
-  background-color: blue;
+  background-color: #4282c7;
   background-image:
     linear-gradient(
       to top right, 
-      blue, #5c4cd4
+      #4282c7, #5c4cd4
     );
 }
 
-div.moviewrapper
+div.movie
 {
  text-align: center
 }
