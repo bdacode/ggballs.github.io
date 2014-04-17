@@ -2,12 +2,19 @@ h1 {
   font-weight: bold;
   color: #000000;
   font-size: 58px;
+  text-align:center
 }
 
 h2 {
   font-weight: bold;
   color: #000000;
   font-size: 30px;
+  text-align:center
+  
+}
+p
+{
+  text-align:center	
 }
 
 .MyGradient
