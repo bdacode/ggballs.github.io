@@ -22,11 +22,11 @@ p
 .MyGradient
 {
   
-  background-color: #4282c7;
+  background-color: #006699;
   background-image:
     linear-gradient(
       to top right, 
-      #4282c7, #5c4cd4
+      #006699, #0066FF
     );
 }
 
