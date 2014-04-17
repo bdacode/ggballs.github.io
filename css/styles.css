@@ -20,7 +20,7 @@ p
 .MyGradient
 {
   
-  background-color: red;
+  background-color: blue;
   background-image:
     linear-gradient(
       to top right, 
@@ -28,8 +28,7 @@ p
     );
 }
 
-div.moviewrapper{
-
-
- margin: 0 auto;
+div.moviewrapper
+{
+ text-align: center
 }
