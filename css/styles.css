@@ -10,7 +10,8 @@ h2 {
   font-size: 30px;
 }
 
-div {
+.MyGradient
+{
   height: 100px;
   background-color: red;
   background-image:
