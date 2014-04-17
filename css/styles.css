@@ -39,3 +39,8 @@ div.movie
 {
 	text-align: center
 }
+
+img{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
